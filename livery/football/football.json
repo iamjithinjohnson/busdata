@@ -3,15 +3,13 @@
         "id": "101",
         "category": "jetbus",
         "name": "ManchisterUTD",
-        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/images/ManchisterUTD%20JetBus%20SHD.png",
-        "info": "https://www.gardendesign.com/roses/care.html#:~:text=Rose%20care%20is%20easier%20than,to%20keep%20the%20soil%20moist."
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/images/ManchisterUTD%20JetBus%20SHD.png"
     },
     {
         "id": "102",
-        "category": "indoor plant",
-        "name": "money plant",
-        "imgpath": "https://images-na.ssl-images-amazon.com/images/I/41YlnnYriDL.jpg",
-        "info": "https://www.apartmenttherapy.com/money-tree-plants-our-best-tips-for-growing-and-care-239893"
+        "category": "Jetbus 2+ SHD",
+        "name": "Barcelona",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/images/barca1%20JetBus%20SHD.png"        
     },
     {
         "id": "103",
