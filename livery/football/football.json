@@ -1,1 +1,45 @@
+[
+    {
+        "id": "101",
+        "category": "indoor plant",
+        "name": "lucky bamboo",
+        "imgpath": "https://3.imimg.com/data3/KE/PR/MY-10774892/lucky-bamboo-tree-500x500.jpg",
+        "info": "https://www.gardendesign.com/roses/care.html#:~:text=Rose%20care%20is%20easier%20than,to%20keep%20the%20soil%20moist."
+    },
+    {
+        "id": "102",
+        "category": "indoor plant",
+        "name": "money plant",
+        "imgpath": "https://images-na.ssl-images-amazon.com/images/I/41YlnnYriDL.jpg",
+        "info": "https://www.apartmenttherapy.com/money-tree-plants-our-best-tips-for-growing-and-care-239893"
+    },
+    {
+        "id": "103",
+        "category": "indoor plant",
+        "name": "monstera",
+        "imgpath": "https://www.gardeningknowhow.com/wp-content/uploads/2014/03/cheese-plant.jpg",
+        "info": "https://www.apartmenttherapy.com/money-tree-plants-our-best-tips-for-growing-and-care-239893"
+    },
+    {
+        "id": "104",
+        "category": "indoor plant",
+        "name": "zamiokulkas",
+        "imgpath": "https://i.pinimg.com/originals/12/33/4a/12334a37985ef86b126c600945b0b01e.jpg",
+        "info": "https://www.apartmenttherapy.com/money-tree-plants-our-best-tips-for-growing-and-care-239893"
+    },
+    {
+        "id": "105",
+        "category": "indoor plant",
+        "name": "aavo",
+        "imgpath": "https://3.imimg.com/data3/KE/PR/MY-10774892/lucky-bamboo-tree-500x500.jpg",
+        "info": "https://3.imimg.com/data3/KE/PR/MY-10774892/lucky-bamboo-tree-500x500.jpg"
+    },
+    {
+        "id": "106",
+        "category": "indoor plant",
+        "name": "chedi",
+        "imgpath": "https://www.gardeningknowhow.com/wp-content/uploads/2014/03/cheese-plant.jpg",
+        "info": "https://www.apartmenttherapy.com/money-tree-plants-our-best-tips-for-growing-and-care-239893"
+    }
+]
 
