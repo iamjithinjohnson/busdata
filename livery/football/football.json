@@ -1,9 +1,9 @@
 [
     {
         "id": "101",
-        "category": "indoor plant",
-        "name": "lucky bamboo",
-        "imgpath": "https://3.imimg.com/data3/KE/PR/MY-10774892/lucky-bamboo-tree-500x500.jpg",
+        "category": "jetbus",
+        "name": "ManchisterUTD",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/images/ManchisterUTD%20JetBus%20SHD.png",
         "info": "https://www.gardendesign.com/roses/care.html#:~:text=Rose%20care%20is%20easier%20than,to%20keep%20the%20soil%20moist."
     },
     {
