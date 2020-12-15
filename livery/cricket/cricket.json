@@ -1,8 +1,32 @@
 [
     {
-        "id": "101",
-        "category": "cricket",
-        "name": "ManchisterUTD",
-        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/images/ManchisterUTD%20JetBus%20SHD.png"
+        "category": "mod livery",
+        "name": "SRH",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/sr.png"
+    }
+    {
+        "category": "mod livery",
+        "name": "RR",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/rr.png"
+    }
+    {
+        "category": "mod livery",
+        "name": "RCB",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/rcb.png"
+    }
+    {
+        "category": "mod livery",
+        "name": "Mi",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/mi.png"
+    },
+    {
+        "category": "mod livery",
+        "name": "DC",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/dc.png"
+    },
+    {
+        "category": "mod livery",
+        "name": "CSK",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/csk.png"
     }
 ]
