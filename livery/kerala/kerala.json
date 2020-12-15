@@ -34,4 +34,34 @@
         "name": "chikoos",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/7.png"
     },
+    {
+        "category": "SHD",
+        "name": "ceecee",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/8.png"
+    },
+    {
+        "category": "SHD",
+        "name": "Greatfather",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/9.png"
+    },
+    {
+        "category": "SHD",
+        "name": "omarlulu",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/10.png"
+    },
+    {
+        "category": "SHD",
+        "name": "jaiguru",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/11.png"
+    },
+    {
+        "category": "SHD",
+        "name": "Rosariyo",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/12.png"
+    },
+    {
+        "category": "SHD",
+        "name": "Rosariyo",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/13.png"
+    },
 ]
