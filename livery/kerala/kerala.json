@@ -8,5 +8,30 @@
         "category": "SHD",
         "name": "Monster energy",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/%20MONSTER%20RED.png"
-    }
+    },
+    {
+        "category": "SHD",
+        "name": "Freak",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/3.png"
+    },
+    {
+        "category": "SHD",
+        "name": "Fazco",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/4.png"
+    },
+    {
+        "category": "SHD",
+        "name": "Dragon",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/5.png"
+    },
+    {
+        "category": "SHD",
+        "name": "Rosaroyo",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/6.png"
+    },
+     {
+        "category": "SHD",
+        "name": "chikoos",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/7.png"
+    },
 ]
