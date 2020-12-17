@@ -1,8 +1,37 @@
 [
     {
-        "id": "101",
-        "category": "other",
-        "name": "ManchisterUTD",
-        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/images/ManchisterUTD%20JetBus%20SHD.png"
+        "category": "HD",
+        "name": "other",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/other/images/hd7.png"
+    },
+    {
+        "category": "HD",
+        "name": "other",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/other/images/hd6.png"
+    },
+    {
+        "category": "HD",
+        "name": "other",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/other/images/hd5.png"
+    },
+    {
+        "category": "HD",
+        "name": "other",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/other/images/hd4.png"
+    },
+    {
+        "category": "HD",
+        "name": "other",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/other/images/hd3.png"
+    },
+    {
+        "category": "HD",
+        "name": "other",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/other/images/hd2.png"
+    },
+    {
+        "category": "HD",
+        "name": "other",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/other/images/hd1.png"
     }
 ]
