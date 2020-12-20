@@ -2,31 +2,38 @@
     {
         "category": "mod livery",
         "name": "SRH",
-        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/sr.png"
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/sr.png",
+        "thumbnail": "https://github.com/iamjithinjohnson/busdata/blob/main/livery/cricket/thumbnail/sr.jpg"
+
     },
     {
         "category": "mod livery",
         "name": "RR",
-        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/rr.png"
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/rr.png",
+        "thumbnail": "https://github.com/iamjithinjohnson/busdata/blob/main/livery/cricket/thumbnail/rr.jpg"
     },
     {
         "category": "mod livery",
         "name": "RCB",
-        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/rcb.png"
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/rcb.png",
+        "thumbnail": "https://github.com/iamjithinjohnson/busdata/blob/main/livery/cricket/thumbnail/sr.jpg"
     },
     {
         "category": "mod livery",
         "name": "Mi",
-        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/mi.png"
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/mi.png",
+        "thumbnail": "https://github.com/iamjithinjohnson/busdata/blob/main/livery/cricket/thumbnail/mi.jpg"
     },
     {
         "category": "mod livery",
         "name": "DC",
-        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/dc.png"
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/dc.png",
+        "thumbnail": "https://github.com/iamjithinjohnson/busdata/blob/main/livery/cricket/thumbnail/dc.jpg"
     },
     {
         "category": "mod livery",
         "name": "CSK",
-        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/csk.png"
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/cricket/images/csk.png",
+        "thumbnail": "https://github.com/iamjithinjohnson/busdata/blob/main/livery/cricket/thumbnail/csk.jpg"
     }
 ]
