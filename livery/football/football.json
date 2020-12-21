@@ -1,5 +1,10 @@
 [
     {
+        "category": "jetbus 2+ SHD",
+        "name": "Barcelona",
+        "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/images/barca3.png"
+    },    
+    {
         "category": "jetbus",
         "name": "ManchisterUTD",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/images/ManchisterUTD%20JetBus%20SHD.png"
