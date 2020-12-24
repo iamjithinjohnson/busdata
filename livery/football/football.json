@@ -7,31 +7,37 @@
     {
         "category": "jetbus",
         "name": "ManchisterUTD",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/thumbnail/ManchisterUTD%20JetBus%20SHD.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/images/ManchisterUTD%20JetBus%20SHD.png"
     },
     {
         "category": "Jetbus 2+ SHD",
         "name": "Barcelona",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/thumbnail/barca1%20JetBus%20SHD.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/images/barca1%20JetBus%20SHD.png"        
     },
     {
         "category": "Arjuna XHD",
         "name": "Barcelona",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/thumbnail/barca2.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/images/barca2.png"
     },
     {
         "category": "Jetbus 2+ SHD",
         "name": "Juventus",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/thumbnail/juventus1%20jetbus%20SHD.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/images/juventus1%20jetbus%20SHD.png"
     },
     {
         "category": "Arjuna XHD",
         "name": "Juventus",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/thumbnail/juventus1.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/images/juventus1.png"
     },
         {
         "category": "SHD",
         "name": "Brazil",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/thumbnail/BRAZIL%20FANS%20LIVERY.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/football/images/BRAZIL%20FANS%20LIVERY.jpg"
     }
 ]
