@@ -2,41 +2,49 @@
     {
         "category": "SHD",
         "name": "livery",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/thumbnail/1.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/images/1.png"
     },
     {
         "category": "SHD",
         "name": "livery",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/thumbnail/2.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/images/2.png"
     },
     {
         "category": "SHD",
         "name": "livery",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/thumbnail/3.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/images/3.png"
     },
     {
         "category": "SHD",
         "name": "livery",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/thumbnail/4.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/images/4.png"
     },
     {
         "category": "SHD",
         "name": "livery",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/thumbnail/5.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/images/5.png"
     },
     {
         "category": "SHD",
         "name": "livery",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/thumbnail/6.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/images/6.png"
     },
     {
         "category": "SHD",
         "name": "livery",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/thumbnail/7.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/images/7.png"
     },
     {
         "category": "SHD",
         "name": "mod livery",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/thumbnail/8.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/tamil/images/8.png"
     }
 ]
