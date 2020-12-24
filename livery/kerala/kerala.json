@@ -140,51 +140,61 @@
     {
         "category": "SHD",
         "name": "santacruz",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/thumbnail/24.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/24.png"
     },
     {
         "category": "SHD",
         "name": "santacruz",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/thumbnail/25.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/25.png"
     },
     {
         "category": "SHD",
         "name": "santacruz",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/thumbnail/26.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/26.png"
     },
     {
         "category": "SHD",
         "name": "santacruz",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/thumbnail/27.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/27.png"
     },
     {
         "category": "SHD",
         "name": "santacruz",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/thumbnail/28.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/28.png"
     },
     {
         "category": "SHD",
         "name": "santacruz",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/thumbnail/29.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/29.png"
     },
     {
         "category": "SHD",
         "name": "santacruz",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/thumbnail/30.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/30.png"
     },
     {
         "category": "SHD",
         "name": "santacruz",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/thumbnail/31.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/31.png"
     },
     {
         "category": "jetbus hd",
         "name": "sarkar",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/thumbnail/32.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/32.png"
     },
     {
         "category": "SHD",
         "name": "greatfather",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/thumbnail/33.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/33.png"
     },
     {
@@ -195,6 +205,7 @@
     {
         "category": "SHD",
         "name": "greatfather",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/thumbnail/35.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/35.png"
     },
     {
@@ -205,16 +216,19 @@
     {
         "category": "SHD",
         "name": "komban",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/thumbnail/37.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/37.png"
     },
     {
         "category": "SHD",
         "name": "pazhempallill",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/thumbnail/38.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/38.png"
     },
     {
         "category": "SHD",
         "name": "rosario",
+        "thumbnail": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/thumbnail/39.jpg",
         "imgpath": "https://raw.githubusercontent.com/iamjithinjohnson/busdata/main/livery/kerala/images/39.png"
     }
 
